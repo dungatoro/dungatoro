@@ -1,5 +1,6 @@
-
 ![banner thing](banner.png)
 
-Rust, Neovim, Arch Linux enjoyer
+## Dungatoro
+Avid enjoyer of Rust, Neovim & Arch Linux. 
+Regular hater of bash.
  
