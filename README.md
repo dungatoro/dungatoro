@@ -1,5 +1,5 @@
 
-![banner](https://github.com/dungatoro/dungatoro/blob/main/banner.png)
+![banner thing](https://github.com/dungatoro/dungatoro/blob/main/banner.png)
 
 # Hello world
 <!--
