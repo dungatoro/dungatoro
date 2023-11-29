@@ -1,9 +1,6 @@
 # Dungatoro
-Programming language enthusiast. Prefer style over readability.
-
-- Rust
-- Haskell
-- Python
-- Bash
-
+Programming language enthusiast. Always favour aesthetics over readability.
+```apl
+life ← {⊃1 ⍵ ∨.∧ 3 4 = +/ +⌿ ¯1 0 1 ∘.⊖ ¯1 0 1 ⌽¨ ⊂⍵}
+```
  
