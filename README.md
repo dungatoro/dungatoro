@@ -1,4 +1,9 @@
-## Dungatoro
-Avid enjoyer of Rust, Neovim & Arch Linux. 
-Regular hater of bash.
+# Dungatoro
+Programming language enthusiast. Prefer style over readability.
+
+- Rust
+- Haskell
+- Python
+- Bash
+
  
