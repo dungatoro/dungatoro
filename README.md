@@ -1,4 +1,3 @@
-# dungatoro
 ![banner](banner.jpg)
 ```apl
 ⍝ Conway's Game of Life
