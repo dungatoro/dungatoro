@@ -7,5 +7,11 @@ life ← {⊃1⍵∨.∧3 4=+/+⌿¯1 0 1∘.⊖¯1 0 1⌽¨⊂⍵}
 - [Urynus](https://github.com/dungatoro/urynus), a handy tool for generating code from markdown code blocks.
 - Designing a _slightly_ quirky oo [language](https://github.com/dungatoro/clubs).
 
+## Languages im learning/want to learn...
+- Clojure
+- Julia
+- Elixir (soon)
+- Smalltalk (some weekend)
+
 ![languages](fullstack.png)
  
